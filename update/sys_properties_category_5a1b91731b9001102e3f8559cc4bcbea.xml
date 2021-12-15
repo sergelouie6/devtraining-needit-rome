@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 04:16:20</sys_created_on>
+        <sys_id>5a1b91731b9001102e3f8559cc4bcbea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_5a1b91731b9001102e3f8559cc4bcbea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 04:16:20</sys_updated_on>
+        <title><![CDATA[<p style="text-align: left;"><img style="align: baseline;" title="Jopen" src="sys_attachment.do?sys_id&#61;254b55bb1b5001102e3f8559cc4bcb95" alt="Jopen" width="40" height="40" align="baseline" /><span style="font-size: 36pt; font-family: &#39;arial black&#39;, &#39;avant garde&#39;;"> NeedIt Properties</span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a1b91731b9001102e3f8559cc4bcbea"/>
+</record_update>
